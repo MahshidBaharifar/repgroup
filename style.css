@@ -1,0 +1,27 @@
+.flex{
+    display: flex;
+    padding: 2% 5%;
+    background-color: antiquewhite;
+    margin-bottom: 30px;
+  
+}
+img{
+    width: 400px;
+ 
+}
+.flex div{
+    margin-left: 50px;
+}
+form{
+    margin-left: 600px;
+    align-items: center;
+}
+.button{
+    margin-left: 100px;
+    border-radius: 5%;
+    background-color: aqua;
+}
+h1{
+    text-align: center;
+    
+}
